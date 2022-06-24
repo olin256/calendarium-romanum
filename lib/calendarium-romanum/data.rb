@@ -43,6 +43,7 @@ module CalendariumRomanum
     GENERAL_ROMAN_ITALIAN = SanctoraleFile.new('universal-it.txt')
     GENERAL_ROMAN_PORTUGUESE = SanctoraleFile.new('universal-pt.txt')
     GENERAL_ROMAN_SPANISH = SanctoraleFile.new('universal-es.txt')
+    # TODO: replace with the new layered one before this is merged in master
     CZECH = SanctoraleFile.new('czech-cs.txt')
 
     values(index_by: :siglum) do
@@ -60,6 +61,8 @@ module CalendariumRomanum
       ] \
       +
         %w(
+          europe-cs.txt
+          czech-proper-cs.txt
           czech-brno-cs.txt
           czech-budejovice-cs.txt
           czech-cechy-cs.txt

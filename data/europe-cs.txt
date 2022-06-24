@@ -1,0 +1,20 @@
+---
+title: kalendář Evropy
+description: celebrations shared by the countries of Europe
+locale: cs
+country: cz
+extends: universal-cs.txt
+---
+
+= 2
+14 f cyril_methodius : Sv. Cyrila, mnicha, a Metoděje, biskupa, patronů Evropy
+
+= 4
+29 f catherine_of_siena : Sv. Kateřiny Sienské, panny a učitelky církve, patronky Evropy
+
+= 7
+11 f benedict : Sv. Benedikta, opata, patrona Evropy
+23 f birgitta : Sv. Brigity, řeholnice, patronky Evropy
+
+= 8
+9 f R stein : Sv. Terezie Benedikty od Kříže, panny a mučednice, patronky Evropy

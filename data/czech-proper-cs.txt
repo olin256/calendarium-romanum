@@ -1,0 +1,71 @@
+---
+title: Český národní kalendář
+description: Calendar for the dioceses of Czech Republic
+locale: cs
+country: cz
+extends: europe-cs.txt
+# source: http://www.liturgie.cz/temata/liturgicky-cas/ceskynarodnikalendar
+---
+
+= 1
+18 m3.11 bvm_unity : Panny Marie, Matky jednoty křesťanů
+
+# TODO: remove Cyril and Methodius on February 14th - currently unsupported by the data format
+
+= 3
+10 R ogilvie : Sv. Jana Ogilvie, kněze a mučedníka
+
+= 4
+23 f2.8 R adalbert : Sv. Vojtěcha, biskupa a mučedníka, hlavního patrona pražské arcidiecéze
+24 R george : Sv. Jiří, mučedníka
+24 R fidelis : Sv. Fidela ze Sigmaringy, kněze a mučedníka
+30 R sigismund : Sv. Zikmunda, mučedníka
+30 pius_v : Sv. Pia V., papeže
+
+= 5
+6 R sarkander : Sv. Jana Sarkandra, kněze a mučedníka
+8 bvm_mediatrix : Panny Marie, Prostřednice všech milostí
+16 f2.8 R john_nepomuk : Sv. Jana Nepomuckého, kněze a mučedníka, hlavního patrona Čech
+20 hofbauer : Sv. Klementa Marie Hofbauera, kněze
+20 bernardine : Sv. Bernardina Sienského, kněze
+30 zdislava : Sv. Zdislavy
+
+= 6
+15 R vitus : Sv. Víta, mučedníka
+19 neumann : Sv. Jana Nepomuckého Neumanna, biskupa
+19 romuald : Sv. Romualda, opata
+29 s R peter_paul : Sv. Petra a Pavla, apoštolů, hlavních patronů brněnské diecéze
+
+= 7
+4 procopius : Sv. Prokopa, opata
+4 elizabeth_of_portugal : Sv. Alžběty Portugalské
+5 s1.4 cyril_methodius : Sv. Cyrila, mnicha, a Metoděje, biskupa, patronů Evropy, hlavních patronů Moravy
+14 R hroznata : Bl. Hroznaty, mučedníka
+14 camillus_de_lellis : Sv. Kamila de Lellis, kněze
+17 ceslaus_hyacinth : Bl. Česlava a sv. Hyacinta, kněží
+27 gorazd : Sv. Gorazda a druhů
+
+= 8
+25 R five_camaldolese : Sv. Benedikta, Jana, Matouše, Izáka a Kristina, mučedníků
+25 louis : Sv. Ludvíka
+25 joseph_calasanz : Sv. Josefa Kalasanského, kněze
+
+= 9
+7 R grodecky : Sv. Melichara Grodeckého, kněze a mučedníka
+10 R spinola : Bl. Karla Spinoly, kněze a mučedníka
+16 R ludmila : Sv. Ludmily, mučednice
+17 R cornelius_cyprian : Sv. Kornélia, papeže, a Cypriána, biskupa, mučedníků
+17 bellarmine : Sv. Roberta Bellarmina, biskupa a učitele církve
+17 hildegard : Sv. Hildegardy z Bingen, panny a učitelky církve
+28 s1.4 R wenceslaus : Sv. Václava, mučedníka, hlavního patrona českého národa
+
+= 10
+12 radim : Sv. Radima, biskupa
+21 karl_of_austria : Bl. Karla Rakouského
+31 wolfgang : Sv. Wolfganga, biskupa
+
+= 11
+13 m agnes_of_bohemia : Sv. Anežky České, panny
+
+= 12
+1 R campion : Sv. Edmunda Kampiána, kněze a mučedníka
