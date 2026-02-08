@@ -753,6 +753,7 @@ or 2031-06-15 ordinary 11 false
 - "Feria quinta, hebdomada XXVII per annum" 3.13 green   temporale
 - "Ss. Dionysii, episcopi, et sociorum, martyrum" 3.12 red denis 10/9 sanctorale
 - "S. Ioannis Leonardi, presbyteri" 3.12 white leonardi 10/9 sanctorale
+- "S. Ioannis Henrici Newman, presbyteri et Ecclesiæ doctoris" 3.12 white newman 10/9 sanctorale
 2031-10-10 ordinary 27 false
 - "Feria sexta, hebdomada XXVII per annum" 3.13 green   temporale
 2031-10-11 ordinary 27 true

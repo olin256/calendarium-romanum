@@ -192,6 +192,7 @@ locale: pt
 7 m bvm_rosary : Virgem Santa Maria do Rosário
 9 R denis : SS. Dionísio, bispo, e Companheiros, mártires
 9 leonardi : S. João Leonardo, presbítero
+9 newman : S. João Henrique Newman, presbítero e doutor da Igreja
 11 john_xxiii : S. João XXIII, papa
 14 R callistus_i : S. Calisto I, papa e mártir
 15 m teresa_avila : S. Teresa de Jesus, virgem e doutora da Igreja

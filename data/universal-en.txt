@@ -190,6 +190,7 @@ locale: en
 7 m bvm_rosary : Our Lady of the Rosary
 9 R denis : Saint Denis and companions, martyrs
 9 leonardi : Saint John Leonardi, priest
+9 newman : Saint John Henry Newman, priest and Doctor of the Church
 11 john_xxiii : Saint John XXIII, pope
 14 R callistus_i : Saint Callistus I, pope and martyr
 15 m teresa_avila : Saint Teresa of Jesus, virgin and doctor

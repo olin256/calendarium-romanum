@@ -764,6 +764,7 @@ or 2021-06-06 ordinary 10 false
 - "Sabbato, hebdomada XXVII per annum" 3.13 green   temporale
 - "Ss. Dionysii, episcopi, et sociorum, martyrum" 3.12 red denis 10/9 sanctorale
 - "S. Ioannis Leonardi, presbyteri" 3.12 white leonardi 10/9 sanctorale
+- "S. Ioannis Henrici Newman, presbyteri et Ecclesiæ doctoris" 3.12 white newman 10/9 sanctorale
 - "Memoria Sanctae Mariae in Sabbato" 3.12 white saturday_memorial_bvm  temporale
 2021-10-10 ordinary 28 false
 - "Dominica XXVIII per annum" 2.6 green   temporale
