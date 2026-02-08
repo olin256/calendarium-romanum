@@ -36,7 +36,7 @@ locale: es
 21 peter_damian : San Pedro Damián, Obispo y Doctor de la Iglesia
 22 f chair_of_peter : Cátedra de San Pedro, Apóstol
 23 m R polycarp : San Policarpo, Obispo y Mártir
-27 gregory_of_narek : San Gregorio de Narek, abad y doctor de la Iglesia
+27 gregory_of_narek : San Gregorio de Narek, abad y Doctor de la Iglesia
 
 = 3
 4 casimir : San Casimiro
@@ -53,7 +53,7 @@ locale: es
 2 francis_of_paola : San Francisco de Paula, Ermitaño
 4 isidore : San Isidoro, Obispo y Doctor de la Iglesia
 5 vincent_ferrer : San Vicente Ferrer, Presbítero
-7 m de_la_salle : San Juan Bautista de La Salle, presbítero
+7 m de_la_salle : San Juan Bautista de La Salle, Presbítero
 11 m R stanislaus : San Estanislao, Obispo y Mártir
 13 R martin_i : San Martín I, Papa y Mártir
 21 anselm : San Anselmo, Obispo y Doctor de la Iglesia
@@ -122,7 +122,7 @@ locale: es
 22 f mary_magdalene : Santa María Magdalena
 23 birgitta : Santa Brígida de Suecia, Religiosa
 24 sharbel : San Chárbel Makhlouf, Ermitaño
-25 f R james : Santiago, apóstol
+25 f R james : Santiago, Apóstol
 26 m joachim_anne : Santos Joaquín y Ana, padres de la Santísima Virgen María
 29 m martha_mary_lazarus : Santos Marta, María y Lázaro
 30 peter_chrysologus : San Pedro Crisólogo, Obispo y Doctor de la Iglesia
@@ -147,11 +147,11 @@ locale: es
 15 s assumption : Asunción de la Santísima Virgen María
 16 stephen_hungary : San Esteban de Hungría
 19 eudes : San Juan Eudes, Presbítero
-20 m bernard : San Bernardo, abad y doctor de la Iglesia
+20 m bernard : San Bernardo, abad y Doctor de la Iglesia
 21 m pius_x : San Pío X
 22 m bvm_queenship : Bienaventurada María Virgen Reina
 23 rose_lima : Santa Rosa de Lima, Virgen
-24 f R bartholomew : San Bartolomé, apóstol
+24 f R bartholomew : San Bartolomé, Apóstol
 25 louis : San Luis
 25 joseph_calasanz : San José de Calasanz, Presbítero
 27 m monica : Santa Mónica
@@ -169,13 +169,13 @@ locale: es
 15 m bvm_sorrows : Nuestra Señora de los Dolores
 16 m R cornelius_cyprian : Santos Cornelio, Papa, y Cipriano, Obispo, Mártires
 17 bellarmine : San Roberto Belarmino, Obispo y Doctor de la Iglesia
-17 hildegard : Santa Hildegarda de Bingen, virgen y doctora de la Iglesia
+17 hildegard : Santa Hildegarda de Bingen, Virgen y doctora de la Iglesia
 19 R januarius : San Jenaro, Obispo y Mártir
 20 m R korean_martyrs : Santos Andrés Kim Taegon, Presbítero, Pablo Chong Hasang y compañeros, Mártires
 21 f R matthew : San Mateo, Apóstol y Evangelista
-23 m padre_pio : San Pío de Pietrelcina, presbítero
+23 m padre_pio : San Pío de Pietrelcina, Presbítero
 26 R cosmas_damian : Santos Cosme y Damián, Mártires
-27 m vincent_de_paul : San Vicente de Paúl, presbítero
+27 m vincent_de_paul : San Vicente de Paúl, Presbítero
 28 R wenceslaus : San Venceslao, Mártir
 28 R ruiz : Santos Lorenzo Ruiz y compañeros, Mártires
 29 f archangels : Santos Miguel, Gabriel y Rafael, Arcángeles
